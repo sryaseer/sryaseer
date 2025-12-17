@@ -1,14 +1,14 @@
-#### Hi, I'm Rizzy 👋
+# Hi, I'm Rizzy 👋
 
 ---
 
-### About Me
+## About Me
 - 💻 Passionate about coding and open-source
 - 🌱 Always learning new technologies
 - 🎯 Focused on building impactful projects
 
 ---
 
-**Contact Me**
+#### **Contact Me**
 
 📧 [rizz.yaseer@gmail.com](mailto:rizz.yaseer@gmail.com)
